@@ -1,0 +1,5 @@
+dd-test-toko-1
+python -m pytest tests/test_api1.py tests/test_api2.py mennjalankan multiple test
+pytest --html=report.html membuat report
+
+semua filename dan functino name harus ada "test_" 
